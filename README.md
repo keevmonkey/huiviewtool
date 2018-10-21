@@ -20,6 +20,10 @@ Or install it yourself as:
 
 ## Usage
 
+```ruby
+HuiViewTool::Renderer.copyright "Kevin Hui", "All Rights Reserved"
+```
+
 TODO: Write usage instructions here
 
 ## Development
